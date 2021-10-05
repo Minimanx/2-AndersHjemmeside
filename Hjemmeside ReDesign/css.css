@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: white;
+    padding-top:1%;
+    padding-bottom: 1%;
+    }
